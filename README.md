@@ -1,4 +1,4 @@
-# Tree-sitter grammar for Pico-8
+# Pico-8 grammar for Tree-sitter
 
 Based on https://github.com/tree-sitter-grammars/tree-sitter-lua
 
