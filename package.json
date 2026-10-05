@@ -7,11 +7,10 @@
     "type": "git",
     "url": "git+https://github.com/mgmalheiros/tree-sitter-pico8.git"
   },
-  "funding": "",
   "license": "MIT",
   "author": {
     "name": "Marcelo de Gomensoro Malheiros",
-    "url": ""
+    "url": "https://github.com/mgmalheiros/"
   },
   "main": "bindings/node",
   "types": "bindings/node",
